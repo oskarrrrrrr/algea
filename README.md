@@ -1,0 +1,3 @@
+# ALGEA
+
+Collection of algorithms.
